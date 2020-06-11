@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "name": "Samsung Galaxy S20 Cinza",
+      "price": "4248.00",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Cartolina Rosa",
+      "price": 2.49
+    },
+    {
+      "id": 3,
+      "name": "Lapiseira",
+      "price": 4.49
+    },
+    {
+      "name": "iPhone XI",
+      "price": "6899.00",
+      "id": 4
+    }
+  ]
+}
